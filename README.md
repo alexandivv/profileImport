@@ -12,4 +12,4 @@ Gologin token is located here 👇👇👇:
 
 4. Run 🏃🏻 the _**main.py**_ file - on the command line 💻  with the project, enter the command ```python main.py```
 
-5. ❤️ _**Sucess**_ ❤️
+5. ❤️ _**Success**_ ❤️
